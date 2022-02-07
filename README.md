@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SekiroRong
 - 👀 I’m interested in CV
-- 🌱 I’m currently learning ReID
+- 🌱 I’m currently learning 3D Object Detection
 - 📫 How to reach me 180910526@mail.dhu.edu.cn
 
 <!---
