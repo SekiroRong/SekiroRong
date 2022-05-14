@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SekiroRong
 - 👀 I’m interested in CV
-- 🌱 I’m currently learning 3D Object Detection
+- 🌱 I’m currently learning 3D Object Detection & GAN
 - 📫 How to reach me sekirorong@gmail.com
 
 <!---
