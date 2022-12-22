@@ -40,4 +40,4 @@ me.say_hi()
 ![](https://img.shields.io/badge/OS-Linux-green?style=flat&logo=ubuntu)
 ![](https://img.shields.io/badge/Tools-Docker-green?style=flat&logo=docker)
 
-![https://mcdonalds.com.hk/wp-content/uploads/2020/04/MDS200401_SC_AM-ALC_500-7.png]
+![And I love sausage-mcmuffin-with-egg™](https://mcdonalds.com.hk/wp-content/uploads/2020/04/MDS200401_SC_AM-ALC_500-7.png)
