@@ -31,10 +31,10 @@ me.say_hi()
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/Code-Python-green?style=flat&logo=python)
-![](https://img.shields.io/badge/Code-C-green?style=flat&logo=c)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Python-green?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-C-green?style=flat&logo=c&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Editor-VS_Code-green?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Library-PyTorch-green?style=flat&logo=pytorch&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
