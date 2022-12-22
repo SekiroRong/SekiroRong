@@ -1,6 +1,6 @@
 # Hello there 👋
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhenye-na.zhenye-na)
+<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhenye-na.zhenye-na) -->
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 
@@ -9,26 +9,24 @@
 # -*- coding: utf-8 -*-
 
 
-class SoftwareEngineer:
+class SekiroRong:
 
     def __init__(self):
-        self.name = "Zhenye Na"
-        self.role = "Software Engineer"
-        self.language_spoken = ["zh_CN", "en_US"]
+        self.name = "Sekiro Rong"
+        self.role = "Master Student"
+        self.language_spoken = ["Chinese", "English", "Cantonese"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
-me = SoftwareEngineer()
+me = SekiroRong()
 me.say_hi()
 ```
 
 ## 📝 Blogs
 
-- Personal website and blog: https://zhenye-na.github.io/
-- Notes of AWS Solution Architecture - Associate: https://zhenye-na.github.io/aws-certs-cheatsheet/
-- [WIP] LeetCode Solutions & Notes: https://zhenye-na.github.io/leetcode/
+- Personal website and blog: https://sekirorong.github.io/
 
 
 ## 🔧 Technologies & Tools
