@@ -28,7 +28,7 @@ me.say_hi()
 
 - Personal website and blog: https://sekirorong.github.io/
 
-- My Study note: https://www.notion.so/sekirorong/Navigation-da82b52574a749c28580216641497b4d/
+- My Study note: https://www.notion.so/sekirorong/Navigation/
 
 
 ## 🔧 Technologies & Tools
