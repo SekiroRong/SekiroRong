@@ -13,8 +13,8 @@ class SekiroRong:
 
     def __init__(self):
         self.name = "Sekiro Rong"
-        self.role = "Master Student"
-        self.language_spoken = ["Chinese", "English", "Cantonese"]
+        self.role = "Senior Research Engineer"
+        self.language_spoken = ["Chinese", "English", "Cantonese", "Español"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
